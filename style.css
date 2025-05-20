@@ -191,7 +191,7 @@ li {
 }
 
 .navbar-toggler:focus {
-    border: 0.1rem solid #192733;
+    border: none;
     outline: none;
     box-shadow: none;
 }
@@ -229,6 +229,8 @@ li {
     background-color: #f5ddd7;
     color: #192733;
     transform: scale(1.05);
+    outline: none;
+    border:none
 
 }
 
